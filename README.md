@@ -1,6 +1,8 @@
 # OneSampleMR
 Multiplicative structural mean model Use msmm (OneSampleMR) With (In) R Software
 
+https://www.youtube.com/watch?v=FYFqMFVX-GI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
